@@ -11,4 +11,4 @@ app.listen(process.env.PORT || 5000);
 module.exports = app;
 var moko = 123;
 var shiw = 456;
-// Welcome to MokoShiw
+console.log("Welcome to MokoShiw");
